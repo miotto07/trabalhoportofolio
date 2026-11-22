@@ -1,5 +1,3 @@
-# TRABALHO-PORTF-LIO-EDUARDO-FERREIRA-MIOTTO-
-MEU PORTFÓLIO
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
